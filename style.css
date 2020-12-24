@@ -4,13 +4,13 @@ body {
 }
 
 table {
-  border: 2px solid #eee;
+  border: 2px solid #add8e6;
   border-collapse: collapse;
 }
 
 thead,
 tfoot {
-  background: #eee;
+  background: #add8e6;
 }
 
 th,
