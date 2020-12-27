@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier New', monospace;
-  font-size: 17px;
+  font-size: 18px;
   color: #6f4b3e;
 }
 
@@ -16,7 +16,7 @@ tfoot {
 
 th,
 td {
-  padding: 11px;
+  padding: 12px;
   text-align: center;
 }
 
